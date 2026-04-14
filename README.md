@@ -7,11 +7,18 @@ a Software Engineering Student at [**42 Berlin**](https://42berlin.de).
 
 ## Projects:
 
-- [**hauslab**](https://github.com/s-gas/hauslab): What I've built and deployed on self-hosted Linux hardware.
+- [**hauslab**](https://github.com/s-gas/hauslab) - Self-hosted lab where I build and break stuff.
 
-- [**inception**](https://github.com/s-gas/inception): Containerized infrastructure (NGINX, WordPress + PHP, MariaDB) with no pre-built images.
+- [**inception**](https://github.com/s-gas/inception) - Containerized infrastructure (NGINX, WordPress + PHP, MariaDB) with no pre-built images.
 
-- [**minishell**](https://github.com/s-gas/minishell): Bash-like shell written in C.
+- [**minishell**](https://github.com/s-gas/minishell) - Bash-like shell written in C.
+
+## Interests:
+
+- Backend development
+- Infrastructure automation
+- Containerization
+- Observability
 
 <!---
 s-gas/s-gas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
