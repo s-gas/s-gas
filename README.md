@@ -7,9 +7,11 @@ a Software Engineering Student at [**42 Berlin**](https://42berlin.de).
 
 ## Projects:
 
-- [**Inception**](https://github.com/simone-gasparini-94/inception): Containerized infrastructure (NGINX, WordPress + PHP, MariaDB) with no pre-built images.
+- [**hauslab**](https://github.com/s-gas/hauslab): What I've built and deployed on self-hosted Linux hardware.
 
-- [**Minishell**](https://github.com/simone-gasparini-94/minishell): Bash-like shell written in C.
+- [**inception**](https://github.com/s-gas/inception): Containerized infrastructure (NGINX, WordPress + PHP, MariaDB) with no pre-built images.
+
+- [**minishell**](https://github.com/s-gas/minishell): Bash-like shell written in C.
 
 <!---
 s-gas/s-gas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
