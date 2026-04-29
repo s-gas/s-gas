@@ -5,9 +5,11 @@ I'm a Software Engineering Student at [**42 Berlin**](https://42berlin.de).
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## Projects:
+## Personal Projects:
 
 - [**hauslab**](https://github.com/s-gas/hauslab) - Self-hosted lab where I build and break stuff.
+
+## 42 Berlin Projects:
 
 - [**inception**](https://github.com/s-gas/inception) - Containerized infrastructure (NGINX, WordPress + PHP, MariaDB) with no pre-built images.
 
@@ -16,7 +18,7 @@ I'm a Software Engineering Student at [**42 Berlin**](https://42berlin.de).
 ## Interests:
 
 - Backend development
-- Infrastructure automation
+- Infrastructure
 - Containerization
 - Observability
 
