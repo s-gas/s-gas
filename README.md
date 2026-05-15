@@ -11,6 +11,8 @@ I'm a Software Engineering Student at [**42 Berlin**](https://42berlin.de).
 
 ## 42 Berlin Projects:
 
+- [**webserv**](https://github.com/s-gas/webserv) - [ WIP ] - HTTP web server built from scratch in C++.
+
 - [**inception**](https://github.com/s-gas/inception) - Containerized infrastructure (NGINX, WordPress + PHP, MariaDB) with no pre-built images.
 
 - [**minishell**](https://github.com/s-gas/minishell) - Bash-like shell written in C.
