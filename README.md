@@ -7,6 +7,8 @@ I'm a Software Engineering Student at [**42 Berlin**](https://42berlin.de).
 
 ## Personal Projects:
 
+- [**gasmetrics**](https://github.com/s-gas/gasmetrics) - Home gas consumption tracker written in Go.
+
 - [**hauslab**](https://github.com/s-gas/hauslab) - Self-hosted lab where I build and break stuff.
 
 ## 42 Berlin Projects:
