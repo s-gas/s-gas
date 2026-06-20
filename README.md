@@ -20,13 +20,6 @@ I'm a Software Engineering Student at [**42 Berlin**](https://42berlin.de).
 
 - [**minishell**](https://github.com/s-gas/minishell) - Bash-like shell written in C.
 
-## Interests:
-
-- Backend development
-- Infrastructure
-- Containerization
-- Observability
-
 <!---
 s-gas/s-gas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
