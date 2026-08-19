@@ -13,7 +13,7 @@ I'm a Software Engineering Student at [**42 Berlin**](https://42berlin.de).
 - [**hauslab**](https://github.com/s-gas/hauslab) - Self-hosted Linux lab where I build and break stuff.
 
 - [**gasmetrics**](https://github.com/s-gas/gasmetrics) - Home gas consumption tracker written in Go.
-- 
+
 - [**meg-zki**](https://github.com/s-gas/meg-zki) - Portfolio website built with React and Tailwind.
 
 ## 42 Berlin Projects:
