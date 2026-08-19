@@ -6,6 +6,7 @@ I'm a Software Engineering Student at [**42 Berlin**](https://42berlin.de).
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=black)
 
 ## Personal Projects:
 
