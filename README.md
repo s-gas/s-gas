@@ -2,8 +2,6 @@
 
 I'm a Software Engineering Student at [**42 Berlin**](https://42berlin.de).
 
-Currently strengthening my Linux knowledge through Red Hat Academy.
-
 ## Personal Projects:
 
 - [**hauslab**](https://github.com/s-gas/hauslab) - Self-hosted Linux lab where I build and break stuff.
