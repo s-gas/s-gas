@@ -1,22 +1,10 @@
 # Simone Gasparini
 
-I'm a Software Engineering Student at [**42 Berlin**](https://42berlin.de).
+[**42 Berlin**](https://42berlin.de) graduate specialising on Linux and infrastructure. 
 
-## Personal Projects:
+I run and maintain a self-hosted Linux lab where I deploy Docker services. This [homelab](https://github.com/s-gas/hauslab) is where I apply what I've learned from Red Hat's RH124 and RH134 System Administration courses and from the University of Helsinki's DevOps with Docker course.
 
-- [**hauslab**](https://github.com/s-gas/hauslab) - Self-hosted Linux lab where I build and break stuff.
-
-- [**gasmetrics**](https://github.com/s-gas/gasmetrics) - Home gas consumption tracker written in Go.
-
-- [**meg-zki**](https://github.com/s-gas/meg-zki) - Portfolio website built with React and Tailwind.
-
-## 42 Berlin Projects:
-
-- [**webserv**](https://github.com/s-gas/webserv) - HTTP web server built from scratch in C++.
-
-- [**inception**](https://github.com/s-gas/inception) - Containerized infrastructure (NGINX, WordPress + PHP, MariaDB) with no pre-built images.
-
-- [**minishell**](https://github.com/s-gas/minishell) - Bash-like shell written in C.
+I’m now expanding into virtualisation with Proxmox, Ansible automation, and Kubernetes orchestration (k3s).
 
 <!---
 s-gas/s-gas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
