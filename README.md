@@ -4,7 +4,7 @@
 
 I run and maintain a self-hosted Linux lab where I deploy Docker services. This [homelab](https://github.com/s-gas/hauslab) is where I apply what I've learned from Red Hat's RH124 and RH134 System Administration courses and from the University of Helsinki's DevOps with Docker course.
 
-I’m now expanding into virtualisation with Proxmox, Ansible automation, and Kubernetes orchestration (k3s).
+I’m now expanding into Kubernetes orchestration (k3s).
 
 <!---
 s-gas/s-gas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
