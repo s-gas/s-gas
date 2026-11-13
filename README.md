@@ -2,7 +2,7 @@
 
 42 Berlin software engineering graduate specialising in Linux and infrastructure. 
 
-I run and maintain a self-hosted Linux lab where I deploy Docker services. This [homelab](https://github.com/s-gas/hauslab) is where I apply what I've learned from Red Hat's RH124 and RH134 System Administration courses and from the University of Helsinki's DevOps with Docker course.
+I run and maintain a self-hosted Linux. This [homelab](https://github.com/s-gas/hauslab) is where I apply what I've learned from Red Hat's RH124 and RH134 System Administration courses and from the University of Helsinki's DevOps with Docker course.
 
 I’m now expanding into Kubernetes orchestration (k3s).
 
